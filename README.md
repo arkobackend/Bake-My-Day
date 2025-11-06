@@ -1,2 +1,2 @@
 # Bake-My-Day
-cake delivery website with customized cake order features
+This is a mock Cake Delivery website with options for customizing cake order.
